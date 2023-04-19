@@ -4,7 +4,7 @@ I'm a semi-technical product guy, Founder CEO at [City as a School](Cityasachool
 
 I facilitate design sprints for progressive public schools in the U.S, Uni's in U.K and have supported SME's with instructional design (ID) and educational content creation
 
-I've been involved in the Humane tech movement as part of the founding team at [School For Socile Design]([https://human-systems.org/](https://sfsd.io/)) and now apply their methodology to education / learning.
+I've been involved in the Humane tech movement as part of the founding team at [School For Social Design](https://sfsd.io/)) and now apply their methodology to education / learning.
 
 I also run an online community exploring the intersection of Tools for Thought and Pedagogy at [Paideia X Praxis](https://paideiaxpraxis.com/)
 
