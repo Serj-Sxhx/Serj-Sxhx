@@ -1,10 +1,10 @@
 👋 Hi, I’m Serj Hunt
 
-I'm a learning experience designer (UX / LXD), and associate at [Jearni](https://jearni.co/). My research is focused on learner agency, self directed learning [[Learning power]] and humane technology through a 4E cognitive science lens.
+I'm a semi-technical product guy, Founder CEO at [City as a School](Cityasachool.com). I'm a learning experience designer (UX / LXD), and associate at [Jearni](https://jearni.co/). My research is focused on learner agency, self directed learning [[Learning power]] and humane technology through a 4E cognitive science lens.
 
 I facilitate design sprints for progressive public schools in the U.S, Uni's in U.K and have supported SME's with instructional design (ID) and educational content creation
 
-I've been involved in the Humane tech movement as part of the founding team at [Human Systems](https://human-systems.org/) and now apply their methodology to education / learning.
+I've been involved in the Humane tech movement as part of the founding team at [School For Socile Design]([https://human-systems.org/](https://sfsd.io/)) and now apply their methodology to education / learning.
 
 I also run an online community exploring the intersection of Tools for Thought and Pedagogy at [Paideia X Praxis](https://paideiaxpraxis.com/)
 
